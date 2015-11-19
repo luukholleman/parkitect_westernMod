@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 108097027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 578ad7304173f4a26f00dc7d7fd0688a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e42d7393dcc3692a8ed4e762742f7f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Western Mod/cactusLarge.obj
+- Assets/Western Mod/ladder.obj
+- Assets/Western Mod/porch_corner.obj
+- Assets/Western Mod/porch_innerCorner_fence.obj
+- Assets/Western Mod/fortHalf.obj
+- Assets/Western Mod/waterTrough.obj
+- Assets/Western Mod/porch_step.obj
+- Assets/Western Mod/fortTop.obj
+- Assets/Western Mod/westernWall_doorway.obj
+- Assets/Western Mod/westernRoof_slant.obj
+- Assets/Western Mod/poles_two.obj
+- Assets/Western Mod/westernWall_largeWindow.obj
+- Assets/Western Mod/overhang.obj
+- Assets/Western Mod/cactusLarge/_Green_1.png
+- Assets/Western Mod/westernWall_door.obj
+- Assets/Western Mod/porch_corner_fence.obj
+- Assets/Western Mod/skull.obj
+- Assets/Western Mod/signCenter.obj
+- Assets/Western Mod/porch_step_fence.obj
+- Assets/Western Mod/facade_center.obj
+- Assets/Western Mod/westernRoof_half.obj
+- Assets/Western Mod/westernWall_longWindow.obj
+- Assets/Western Mod/westernWall.obj
+- Assets/Western Mod/horseParking.obj
+- Assets/Western Mod/minecart.obj
+- Assets/Western Mod/signSide.obj
+- Assets/Western Mod/porch_innerCorner.obj
+- Assets/Western Mod/junk.obj
+- Assets/Western Mod/wheelHanging.obj
+- Assets/Western Mod/signSide_mirror.obj
+- Assets/Western Mod/westernRoof_flat.obj
+- Assets/Western Mod/ladderStanding.obj
+- Assets/Western Mod/trackStraight.obj
+- Assets/Western Mod/crate.obj
+- Assets/Western Mod/pole.obj
+- Assets/Western Mod/pole_corner.obj
+- Assets/Western Mod/trackCurved.obj
+- Assets/Western Mod/westernWall_doorOpen.obj
+- Assets/Western Mod/facade_roundSide.obj
+- Assets/Western Mod/westernWall_doorClosed.obj
+- Assets/Western Mod/pole_cornerBottom.obj
+- Assets/Western Mod/porch_side_fence.obj
+- Assets/Western Mod/trackEnd.obj
+- Assets/Western Mod/signSingle.obj
+- Assets/Western Mod/fortGate.obj
+- Assets/Western Mod/fortWall.obj
+- Assets/Western Mod/facade_decorativeSide.obj
+- Assets/Western Mod/cactusSmall.obj
+- Assets/Western Mod/westernWall_window.obj
+- Assets/Western Mod/westernWall_decorativeWindow.obj
+- Assets/Western Mod/porch_center.obj
+- Assets/Western Mod/facade_squareSide.obj
+- Assets/Western Mod/westernWall_hole.obj
+- Assets/Western Mod/porch_side.obj
+- Assets/Western Mod/wheelFlat.obj
+Dependencies: []

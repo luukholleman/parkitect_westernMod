@@ -1,0 +1,533 @@
+﻿{
+   "Cactus Large": {
+		"model": "cactusLarge",
+		"type": "deco",
+		"price": 20.0
+	},
+	"Cactus Small": {
+		"model": "cactusSmall",
+		"type": "deco",
+		"price": 10.0
+	},
+	"Crate": {
+		"model": "crate",
+		"type": "deco",
+		"price": 10.0,
+		"heightDelta": 0.5
+	},
+	"Horse Parking": {
+		"model": "horseParking",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Junk": {
+		"model": "junk",
+		"type": "deco",
+		"grid": true,
+		"price": 40.0,
+		"heightDelta": 0.5
+	},
+	"Ladder": {
+		"model": "ladder",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Ladder Standing": {
+		"model": "ladderStanding",
+		"type": "deco",
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Minecart": {
+		"model": "minecart",
+		"type": "deco",
+		"grid": true,
+		"price": 80.0,
+		"heightDelta": 0.5
+	},
+	"Skull": {
+		"model": "skull",
+		"type": "deco",
+		"price": 5.0,
+		"heightDelta": 0.5
+	},
+	"Track Straight": {
+		"model": "trackStraight",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5
+	},
+	"Track Curved": {
+		"model": "trackCurved",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5
+	},
+	"Track End": {
+		"model": "trackEnd",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5
+	},
+	"Water Trough": {
+		"model": "waterTrough",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Wheel Flat": {
+		"model": "wheelFlat",
+		"type": "deco",
+		"price": 30.0,
+		"heightDelta": 0.5
+	},
+	"Wheel Hanging": {
+		"model": "wheelHanging",
+		"type": "deco",
+		"grid": true,
+		"price": 30.0,
+		"heightDelta": 0.5
+	},
+	"Fort Wall": {
+		"model": "fortWall",
+		"type": "deco",
+		"grid": true,
+		"price": 40.0,
+		"heightDelta": 0.5
+	},
+	"Fort Half": {
+		"model": "fortHalf",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Fort Top": {
+		"model": "fortTop",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Fort Gate": {
+		"model": "fortGate",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5
+	},
+	"Facade Center": {
+		"model": "facade_center",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#ECD3A1"
+        }
+	},
+	"Facade Side Decorative": {
+		"model": "facade_decorativeSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Facade Side Round": {
+		"model": "facade_roundSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Facade Side Square": {
+		"model": "facade_squareSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Overhang": {
+		"model": "overhang",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Pole": {
+		"model": "pole",
+		"type": "deco",
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Pole Corner": {
+		"model": "pole_corner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Pole Corner Bottom": {
+		"model": "pole_cornerBottom",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Poles": {
+		"model": "poles_two",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Porch Center": {
+		"model": "porch_center",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Porch Corner": {
+		"model": "porch_corner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Porch Inner Corner": {
+		"model": "porch_innerCorner",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Porch Inner Corner Fence": {
+		"model": "porch_innerCorner_fence",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+			"color2": "#6F3F2A"
+        }
+	},
+	"Porch Corner Fence": {
+		"model": "porch_corner_fence",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Porch Side": {
+		"model": "porch_side",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Porch Side Fence": {
+		"model": "porch_side_fence",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Porch Step": {
+		"model": "porch_step",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D"
+        }
+	},
+	"Porch Step Fence": {
+		"model": "porch_step_fence",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Sign Center": {
+		"model": "signCenter",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#ECD3A1"
+        }
+	},
+	"Sign Side": {
+		"model": "signSide",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#ECD3A1"
+        }
+	},
+	"Sign Side Mirror": {
+		"model": "signSide_mirror",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#ECD3A1"
+        }
+	},
+	"Sign Single": {
+		"model": "signSingle",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#ECD3A1"
+        }
+	},
+	"Western Roof Flat": {
+		"model": "westernRoof_flat",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#2C2928"
+        }
+	},
+	"Western Roof Half": {
+		"model": "westernRoof_half",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#2C2928"
+        }
+	},
+	"Western Roof Slant": {
+		"model": "westernRoof_slant",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#2C2928"
+        }
+	},
+	"Western Wall": {
+		"model": "westernWall",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Decorative Window": {
+		"model": "westernWall_decorativeWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Door": {
+		"model": "westernWall_door",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Door Closed": {
+		"model": "westernWall_doorClosed",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Door Open": {
+		"model": "westernWall_doorOpen",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Doorway": {
+		"model": "westernWall_doorway",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Hole": {
+		"model": "westernWall_hole",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Large Window": {
+		"model": "westernWall_largeWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Long Window": {
+		"model": "westernWall_longWindow",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	},
+	"Western Wall Window": {
+		"model": "westernWall_window",
+		"type": "deco",
+		"grid": true,
+		"price": 20.0,
+		"heightDelta": 0.5,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#A75D3D",
+            "color2": "#6F3F2A"
+        }
+	}
+}
