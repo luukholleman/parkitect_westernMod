@@ -23,7 +23,9 @@ namespace Custom_Scenery
 
                 GameObject hider = new GameObject();
 
-                using (WWW www = new WWW("file://" + Application.streamingAssetsPath + "/mods/" + Identifier + "/scenery"))
+                char dsc = System.IO.Path.DirectorySeparatorChar;
+
+                using (WWW www = new WWW("file://" + Path + dsc + "assetbundle" + dsc + "scenery"))
                 {
                     if (www.error != null)
                         throw new Exception("Loading had an error:" + www.error);
@@ -80,6 +82,8 @@ namespace Custom_Scenery
             sw.WriteLine(e);
 
             sw.Flush();
+
+            sw.Close();
         }
 
         public void UnloadScenery()
